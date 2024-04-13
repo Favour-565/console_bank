@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgUGmm7zCD5/2kG6nBmxHAPcuHl6nXQccMLAUZZ0m3xjIybnAuCjCfbaEVKuTJvGiY5vrg766G3mxvZJ224oPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\sq20-net-week-5-task-Favour-565\\SQ20.Net-Week5-Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
